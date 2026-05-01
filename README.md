@@ -9,10 +9,10 @@
   <p><b>Informatics Engineering Student @ ITERA</b><br>
   Passionate about building secure, scalable, and data-driven web applications. <br>Bridging the gap between clean code architecture and seamless user experiences.</p>
   
-  <a href="https://github.com/forkaton/portfolio-ansel">
+  <a href="https://forkaton-portfolio-ansel.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/View_Interactive_Portfolio-0A192F?style=for-the-badge&logo=vercel&logoColor=00F0FF&borderColor=00F0FF" alt="Interactive Portfolio" />
   </a>
-  <a href="https://github.com/forkaton/forkaton/blob/main/CV.pdf">
+  <a href="https://github.com/forkaton/forkaton/blob/main/CV.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Download_CV-00F0FF?style=for-the-badge&logo=adobeacrobatreader&logoColor=black" alt="Download CV" />
   </a>
 </div>
