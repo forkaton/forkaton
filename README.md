@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Hi,+I'm+Ansel!+👋;Full-Stack+Web+Developer;AI+Integration+Enthusiast;Welcome+to+my+digital+universe." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Hi,+I'm+Ansel!+;Full-Stack+Web+Developer;AI+Integration+Enthusiast;Welcome+to+my+digital+universe." alt="Typing SVG" />
 </div>
 
 <hr style="border: 1px solid #00F0FF; margin: 20px 0;" />
 
 <div align="center">
-  <h3>👾 About Me</h3>
+  <h3> About Me</h3>
   <p><b>Informatics Engineering Student @ ITERA</b><br>
   Passionate about building secure, scalable, and data-driven web applications. <br>Bridging the gap between clean code architecture and seamless user experiences.</p>
   
@@ -20,7 +20,7 @@
 <br/>
 
 <div align="center">
-  <h3>🛠️ Tech Arsenal</h3>
+  <h3> Tech Arsenal</h3>
   <p>
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,js,ts,html,css,py,cpp,fastapi,nodejs,postgres,mongodb,docker,git,github,figma&theme=dark" alt="My Skills" />
@@ -31,11 +31,11 @@
 <br/>
 
 <div align="center">
-  <h3>📊 Power Level</h3>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=forkaton&show_icons=true&hide_border=true&title_color=00F0FF&icon_color=00F0FF&text_color=c9d1d9&bg_color=0d1117" alt="Github Stats" />
-    &nbsp;&nbsp;
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=forkaton&layout=compact&hide_border=true&title_color=00F0FF&text_color=c9d1d9&bg_color=0d1117" alt="Top Langs" />
+  <h3> Power Level</h3>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=forkaton&show_icons=true&hide_border=true&title_color=00F0FF&icon_color=00F0FF&text_color=c9d1d9&bg_color=0d1117&v=1" alt="Github Stats" />
+    <br/><br/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=forkaton&layout=compact&hide_border=true&title_color=00F0FF&text_color=c9d1d9&bg_color=0d1117&v=1" alt="Top Langs" />
   </p>
 </div>
 
