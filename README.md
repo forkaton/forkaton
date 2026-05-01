@@ -1,15 +1,19 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=3000&pause=1000&color=B000FF&center=true&vCenter=true&width=600&lines=Hi,+I'm+Ansel!+👋;Fullstack+Developer;AI+Enthusiast;Welcome+to+forkaton's+Universe" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Hi,+I'm+Ansel!+👋;Full-Stack+Web+Developer;AI+Integration+Enthusiast;Welcome+to+my+digital+universe." alt="Typing SVG" />
 </div>
 
-<hr style="border: 2px solid #b000ff;" />
+<hr style="border: 1px solid #00F0FF; margin: 20px 0;" />
 
 <div align="center">
   <h3>👾 About Me</h3>
-  <p>Mahasiswa Informatika <b>ITERA</b>. Saya mengubah kopi menjadi kode.<br>Fokus membangun aplikasi web modern yang terintegrasi dengan kecerdasan buatan.</p>
+  <p><b>Informatics Engineering Student @ ITERA</b><br>
+  Passionate about building secure, scalable, and data-driven web applications. <br>Bridging the gap between clean code architecture and seamless user experiences.</p>
   
+  <a href="https://github.com/forkaton/portfolio-ansel">
+    <img src="https://img.shields.io/badge/View_Interactive_Portfolio-0A192F?style=for-the-badge&logo=vercel&logoColor=00F0FF&borderColor=00F0FF" alt="Interactive Portfolio" />
+  </a>
   <a href="https://github.com/forkaton/forkaton/blob/main/CV.pdf">
-    <img src="https://img.shields.io/badge/Download_CV-b000ff?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV" />
+    <img src="https://img.shields.io/badge/Download_CV-00F0FF?style=for-the-badge&logo=adobeacrobatreader&logoColor=black" alt="Download CV" />
   </a>
 </div>
 
@@ -19,7 +23,7 @@
   <h3>🛠️ Tech Arsenal</h3>
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=react,vite,js,html,css,py,fastapi,postgres,git,github,vscode,postman&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,js,ts,html,css,py,cpp,fastapi,nodejs,postgres,mongodb,docker,git,github,figma&theme=dark" alt="My Skills" />
     </a>
   </p>
 </div>
@@ -28,26 +32,28 @@
 
 <div align="center">
   <h3>📊 Power Level</h3>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=forkaton&show_icons=true&hide_border=true&title_color=b000ff&icon_color=00f2ff&text_color=ffffff&bg_color=0d1117" alt="Github Stats" />
-    <br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=forkaton&layout=compact&hide_border=true&title_color=b000ff&text_color=ffffff&bg_color=0d1117" alt="Top Langs" />
-  </p>
+  <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+    <img src="https://github-readme-stats.vercel.app/api?username=forkaton&show_icons=true&hide_border=true&title_color=00F0FF&icon_color=00F0FF&text_color=c9d1d9&bg_color=0d1117" alt="Github Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=forkaton&layout=compact&hide_border=true&title_color=00F0FF&text_color=c9d1d9&bg_color=0d1117" alt="Top Langs" />
+  </div>
 </div>
 
 <br/>
 
 <div align="center">
-  <h3>🚀 Featured Project: Review Analyzer AI</h3>
-  <p>Aplikasi analisis sentimen produk menggunakan <b>Gemini Flash</b> & <b>Hugging Face</b>.</p>
-  
-  <a href="https://github.com/forkaton/product-review-analyzer-anselmus">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=forkaton&repo=product-review-analyzer-anselmus&theme=tokyonight&hide_border=true&title_color=b000ff&icon_color=00f2ff&bg_color=0d1117" alt="Project Pin" />
-  </a>
+  <h3>🚀 Featured Projects</h3>
+  <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+    <a href="https://github.com/forkaton/product-review-analyzer-anselmus">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=forkaton&repo=product-review-analyzer-anselmus&theme=tokyonight&hide_border=true&title_color=00F0FF&icon_color=00F0FF&text_color=c9d1d9&bg_color=0d1117" alt="Review Analyzer AI" />
+    </a>
+    <a href="https://github.com/MarioSitepu/madu-margolestari-next">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=MarioSitepu&repo=madu-margolestari-next&theme=tokyonight&hide_border=true&title_color=00F0FF&icon_color=00F0FF&text_color=c9d1d9&bg_color=0d1117" alt="Madu Margolestari E-Commerce" />
+    </a>
+  </div>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=B000FF&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F0FF&height=100&section=footer" width="100%" alt="Footer Wave Animation"/>
 </div>
