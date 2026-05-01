@@ -32,24 +32,11 @@
 
 <div align="center">
   <h3>📊 Power Level</h3>
-  <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+  <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=forkaton&show_icons=true&hide_border=true&title_color=00F0FF&icon_color=00F0FF&text_color=c9d1d9&bg_color=0d1117" alt="Github Stats" />
+    &nbsp;&nbsp;
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=forkaton&layout=compact&hide_border=true&title_color=00F0FF&text_color=c9d1d9&bg_color=0d1117" alt="Top Langs" />
-  </div>
-</div>
-
-<br/>
-
-<div align="center">
-  <h3>🚀 Featured Projects</h3>
-  <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-    <a href="https://github.com/forkaton/product-review-analyzer-anselmus">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=forkaton&repo=product-review-analyzer-anselmus&theme=tokyonight&hide_border=true&title_color=00F0FF&icon_color=00F0FF&text_color=c9d1d9&bg_color=0d1117" alt="Review Analyzer AI" />
-    </a>
-    <a href="https://github.com/MarioSitepu/madu-margolestari-next">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=MarioSitepu&repo=madu-margolestari-next&theme=tokyonight&hide_border=true&title_color=00F0FF&icon_color=00F0FF&text_color=c9d1d9&bg_color=0d1117" alt="Madu Margolestari E-Commerce" />
-    </a>
-  </div>
+  </p>
 </div>
 
 <br/>
