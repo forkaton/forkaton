@@ -35,7 +35,7 @@
     <td width="5%"></td>
     <!-- KOLOM KANAN: CATEGORIZED ARSENAL (50%) -->
     <td width="50%" align="left" valign="top">
-      <h3 align="center">🛠️ Tech Arsenal</h3>
+      <h3 align="center"> Tech Arsenal</h3>
       <b> Frontend & UI</b><br/>
       <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,js,ts,html,css,figma&perline=8&theme=dark" alt="Frontend Skills" /></a>
       <br/><br/>
